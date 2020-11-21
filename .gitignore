@@ -27,3 +27,4 @@ online_store.iml
 .idea/**/dbnavigator.xml
 src/main/resources/
 src/main/webapp/
+.idea
